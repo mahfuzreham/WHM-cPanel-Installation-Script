@@ -1,3 +1,6 @@
+git add setup_cpanel.sh
+git commit -m "Add wrapper script for cPanel installation"
+git push origin main
 #!/bin/bash
 
 # Clone the repository
